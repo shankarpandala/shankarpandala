@@ -12,10 +12,6 @@
   <a href="https://github.com/shankarpandala">GitHub</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Building%20in%20Public-blueviolet?style=for-the-badge" alt="Building in Public" />
-</p>
-
 ---
 
 I build interactive learning platforms and open-source tools to make complex topics in AI, math, and systems programming accessible to everyone. Currently Senior Algorithm Developer at **Applied Materials**, delivering ML and analytics solutions using Azure ML, OpenAI, and Databricks.
